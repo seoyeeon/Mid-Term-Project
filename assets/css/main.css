@@ -1637,11 +1637,12 @@
 	}
 
 	body, input, select, textarea {
-		font-family: "Taviraj", serif;
+		
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
 	}
+	
 
 	a {
 		text-decoration: underline;
